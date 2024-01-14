@@ -1,7 +1,5 @@
 # 📊 *Data Engennier and Agile*
-
-
-- 😎Working with: **Python, SQL and**
+- 📍 Rio de Janeiro, Brazil
 - 🌱 Learning about **C/C++, Linux and Docker**
 - 🌍 Languages: **Potuguese, French, English and Spanish**
 - 💃🏿 In my free time **I dance**
@@ -15,7 +13,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=niadata&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  < img src="https://github-readme-stats.vercel.app/api?username=niadata&show_icons=true" />
+  <img align="left" img src="https://github-readme-stats.vercel.app/api?username=niadata&show_icons=true" />
 </picture>
 
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=niadata&theme=tokyonight">
@@ -37,7 +35,6 @@
   <img align="center"  alt="Nia-googlecloud" height="50"  width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 </div>
           
-          
-          
-          
+
+
           
